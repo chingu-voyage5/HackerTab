@@ -1,2 +1,2 @@
 # Geckos-Team-36
-Add-project-description-here | Voyage-5 | chingu.io
+Better Hacker News | Voyage-5 | chingu.io
