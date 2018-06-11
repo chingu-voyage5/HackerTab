@@ -1,2 +1,2 @@
-# Geckos-Team-36
+# HackerTab
 HackerNews Chrome Extension | Voyage-5 | chingu.io
