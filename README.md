@@ -1,2 +1,2 @@
 # Geckos-Team-36
-Better Hacker News | Voyage-5 | chingu.io
+HackerNews Chrome Extension | Voyage-5 | chingu.io
