@@ -1,0 +1,51 @@
+body {
+  font: normal 16px/1.4 'Noto Sans', Arial, Helvetica, sans-serif;
+}
+
+.App {
+  position: relative;
+}
+
+.App-logo {
+  height: 39px;
+  vertical-align: top;
+}
+
+.App-header {
+  background-color: #fff;
+  padding: 10px 20px;
+  color: #041324;
+  -webkit-box-shadow: 0 2px 15px rgba(0,0,0,.15);
+  box-shadow: 0 2px 15px rgba(0,0,0,.15);
+  display: flex;
+  justify-content: flex-start;
+}
+
+.App-brand {
+  line-height: 39px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.App-brand img {
+  margin-right: 5px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

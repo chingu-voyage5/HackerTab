@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "HackerTab",
+  "description": "HackerNew in your chrome new tab",
+  "version": "1",
+  "author": "Dinesh Thapa Magar",
+ "browser_action": {
+    "default_icon": "hn-logo.png",
+    "default_title": "Hacker News Tab"
+  },
+ "chrome_url_overrides" : {
+   "newtab": "index.html"
+ },
+  "permissions": ["activeTab"]
+ }
