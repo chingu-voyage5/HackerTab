@@ -11,6 +11,12 @@ body {
   vertical-align: top;
 }
 
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
 .App-header {
   background-color: #fff;
   padding: 10px 20px;
@@ -48,4 +54,30 @@ body {
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.content {
+  margin-top: 85px;
+}
+
+.posts {
+  border: 1px solid #eee;
+  list-style: none;
+  padding: 0;
+}
+
+.posts li {
+  border-bottom: 1px solid #eee;
+  padding: 15px;
+}
+
+.post-link {
+  color: #222f3e;
+  text-decoration: none;
+  display: block;
+}
+
+.posts small {
+  color: #576574;
+  font-size: 0.7rem;
 }
