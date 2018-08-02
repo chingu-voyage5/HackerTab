@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "HackerTab",
-  "description": "HackerNew in your chrome new tab",
+  "name": "HackerNewsTab",
+  "description": "HackerNews in your browsers new tab",
   "version": "1",
   "author": "Dinesh Thapa Magar",
  "browser_action": {
